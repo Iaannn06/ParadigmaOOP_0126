@@ -26,4 +26,7 @@ int main() {
 	joko a;
 	lia b;
 
+	obyek = &a;
+	obyek->pesan();
+
 }
