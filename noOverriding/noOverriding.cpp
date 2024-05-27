@@ -15,3 +15,8 @@ public:
 	}
 };
 
+int main() {
+	derivedclass a;
+	a.perkenalan();
+
+}
